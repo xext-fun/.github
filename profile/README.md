@@ -6,6 +6,8 @@
 
 ### Extend anything. For fun.
 
+**Website:** [xext.fun](https://xext.fun)
+
 **x** stands for *anything*. **ext** stands for *extension*. xext is a place for exploring how far we can take the things we already have, whether that means adding a feature, modifying a device, improving a process, or making a small budget go further.
 
 ## Our mission

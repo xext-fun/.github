@@ -1,10 +1,12 @@
 # Xext
 
-### Extend anything. Learn something. Have fun.
+### Extend anything. For fun.
 
 **X** stands for *anything*. **Ext** stands for *extension*. Xext is a place for exploring how far we can take the things we already have, whether that means adding a feature, modifying a device, improving a process, or making a small budget go further.
 
-We build and share these experiments for fun. Some may be practical, some may be playful, and all are opportunities to learn.
+## Our mission
+
+**Our mission is to extend for fun.** We build and share experiments because we enjoy discovering what else something can do. Some may be practical, some may be playful, and all are opportunities to learn.
 
 ## What we extend
 

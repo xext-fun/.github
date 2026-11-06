@@ -1,8 +1,8 @@
-# Xext
+# xext
 
 ### Extend anything. For fun.
 
-**X** stands for *anything*. **Ext** stands for *extension*. Xext is a place for exploring how far we can take the things we already have, whether that means adding a feature, modifying a device, improving a process, or making a small budget go further.
+**x** stands for *anything*. **ext** stands for *extension*. xext is a place for exploring how far we can take the things we already have, whether that means adding a feature, modifying a device, improving a process, or making a small budget go further.
 
 ## Our mission
 
@@ -19,7 +19,7 @@
 
 ## Find a project
 
-Browse the [Xext repositories](https://github.com/orgs/xext-fun/repositories) for software, hardware work, and other experiments. Each project's repository is the best place to find its code or designs, current status, setup steps, and instructions for extending it. Check that repository's README and documentation before getting started.
+Browse the [xext repositories](https://github.com/orgs/xext-fun/repositories) for software, hardware work, and other experiments. Each project's repository is the best place to find its code or designs, current status, setup steps, and instructions for extending it. Check that repository's README and documentation before getting started.
 
 There is no single setup guide for everything we do: the tools, materials, and steps depend on the project.
 
@@ -33,4 +33,4 @@ Please check each project's license before reusing its code or designs.
 
 ## Why we do it
 
-We like asking, “What else could this do?” Xext is our place to find out, document the process, and make it easier for someone else to build on the result.
+We like asking, “What else could this do?” xext is our place to find out, document the process, and make it easier for someone else to build on the result.

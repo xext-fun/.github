@@ -1,5 +1,9 @@
 # xext
 
+<p align="center">
+  <img src="assets/logo.jpg" alt="xext logo" width="700">
+</p>
+
 **x** stands for anything. **ext** stands for extension.
 
 We extend things of all kinds, from software to hardware and whatever else sparks our curiosity. We do it for fun, to learn, experiment, and see what is possible.

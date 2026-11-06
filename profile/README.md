@@ -1,5 +1,9 @@
 # xext
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xext-fun/.github/main/assets/logo.jpg" alt="xext logo" width="700">
+</p>
+
 ### Extend anything. For fun.
 
 **x** stands for *anything*. **ext** stands for *extension*. xext is a place for exploring how far we can take the things we already have, whether that means adding a feature, modifying a device, improving a process, or making a small budget go further.
